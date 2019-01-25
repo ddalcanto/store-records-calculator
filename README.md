@@ -13,7 +13,7 @@
 
 
 
-
+## Tutorial
 To use this program, simply use the input format shown above to create your own list of transactions. 
 Note: "R" means the money was received (+), and "P" means the money was paid (-).
 
