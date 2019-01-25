@@ -14,7 +14,7 @@
 
 
 
-To use this program, simply use the format demonstrated in "Transactions.txt" to create your own list of transactions 
-(keeping in mind that "R" means the money was received, and "P" means the money was paid).
+To use this program, simply use the input format shown above to create your own list of transactions. 
+Note: "R" means the money was received (+), and "P" means the money was paid (-).
 
 To run this program, simply type "Transactions.txt" without the quotes when prompted for the file name.
