@@ -1,12 +1,12 @@
 # store-records-calculator
 
-## Running Code Demo
+### Running Code Demo
 <img width="552" alt="storerecordsrunningcodedemo" src="https://user-images.githubusercontent.com/26355832/51721244-2c842700-200e-11e9-8d85-12af83daebc5.PNG">
 
-### Produced Info
+#### Produced Info
 <img width="313" alt="storerecordsproducedinfo" src="https://user-images.githubusercontent.com/26355832/51721270-44f44180-200e-11e9-9a76-369d13a56435.PNG">
 
-### Input Format
+#### Input Format
 <img width="49" alt="storerecordsinputformat" src="https://user-images.githubusercontent.com/26355832/51721276-4b82b900-200e-11e9-97db-8cb08b558a97.PNG">
 
 
