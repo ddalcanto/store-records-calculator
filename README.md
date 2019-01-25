@@ -1,6 +1,9 @@
 # store-records-calculator
 
-### Running Code Demo
+
+## Demo
+
+### Running Code
 <img width="552" alt="storerecordsrunningcodedemo" src="https://user-images.githubusercontent.com/26355832/51721244-2c842700-200e-11e9-8d85-12af83daebc5.PNG">
 
 ### Produced Info
